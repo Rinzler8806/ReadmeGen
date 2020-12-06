@@ -1,8 +1,8 @@
-# Readme
+# Readme Generator
 
 ## Description
 
-hopefully it works,
+Readme's are a good way to showcase your application as well as explain how it works. The motivation behind the readme generator is to simplify the process for creating future readmes.,
 
 ## Table of Contents
 
@@ -12,16 +12,18 @@ hopefully it works,
 
 ## Installation
 
-fill out the data template
+To install the project, simply download the files from the applicable github repository and open them in VS code.
 
 ## Usage
 
-go for it
+Once the files are downloaded, simply open the index.js file in the terminal and run node by typing "node index.js". This will generate prompts that are needed for your readme file.
 
 ## Github
 
-www.google.com
+https://github.com/Rinzler8806
 
 ## License
 
-4w4wt
+None
+
+![](/Develop/readmepic.png)
